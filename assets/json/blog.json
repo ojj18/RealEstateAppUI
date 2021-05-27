@@ -1,0 +1,45 @@
+[
+
+        {
+          "location": "The Ultimate guide to Abu Dhabis Big Ticket",
+          "btn": "PLUSE",
+          "time": "4 MIN READ",
+          "desc": "Vestibulum blandit nunc eu magna condimentum cursus. Morbi venenatis, mi et placerat dignissim, odio magna ultricies massa, sed rhoncus justo ipsum et ex.",
+          "location_ar": "حضانات في رأس الخيمة",
+          "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "location": "Nurserires in Ras AI Khaimah",
+          "btn": "MARKET TRENDS",
+          "time": "8 MIN READ",
+          "desc": "Ut ultrices urna lorem, at cursus quam laoreet vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "location_ar": "إدنبرة ، إنجلترا",
+          "image": "https://images.adsttc.com/media/images/59a4/c624/b22e/389d/3e00/02a3/newsletter/MHA.JR_201708_038.jpg?1503970808"
+        },
+        {
+          "location": "Top areas with 3-bedroom villas for rent in Sharjah under AED 70k",
+          "btn": "TIPS",
+          "time": "3 MIN READ",
+          "desc": "Vivamus quis metus nec magna mollis consectetur. Nam nulla lorem, vestibulum faucibus cursus placerat, dapibus id turpis. Etiam varius lectus vel odio dictum, at elementum lectus dignissim.",
+          "location_ar": "أفضل المناطق مع فلل 3 غرف نوم للإيجار في الشارقة بأقل من 70 ألف درهم إماراتي",
+          "image": "https://d1afoc0smheahm.cloudfront.net/images/project_library/paint+house.jpg"
+        },
+      
+        {
+          "location": "Best spas to pamper youself in Ras AI Khaimah",
+          "btn": "PLUSE",
+          "time": "4 MIN READ",
+          "desc": "Cras blandit pharetra laoreet. Donec id diam sit amet ex viverra placerat. Nunc nisl ligula, aliquam ut blandit id, scelerisque ut libero.",
+          "location_ar": "أفضل المنتجعات الصحية لتدليل نفسك في رأس الخيمة",
+          "image": "https://i.pinimg.com/originals/75/b0/b6/75b0b693157de118ff5735d0e05dc427.jpg"
+        },
+        {
+          "location": "All about ADEK",
+          "btn": "PLUSE",
+          "time": "5 MIN READ",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non convallis nibh, nec molestie turpis. Sed sem lacus, hendrerit eu convallis at, varius vel risus. Etiam nunc est, posuere ac erat ut, imperdiet congue ex.",
+          "location_ar": "كل شيء عن ADEK",
+          "image": "https://i.pinimg.com/originals/4e/09/a7/4e09a70cec1bfa47a523701b4a40537c.jpg"
+        }
+      
+      ]

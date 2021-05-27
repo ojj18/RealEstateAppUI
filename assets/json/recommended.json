@@ -1,0 +1,49 @@
+ [
+    {
+      "price": "4,850,000",
+      "location": "New York, USA",
+      "location_ar": "بريستول ، إنجلترا",
+      "bedroom": "Studio",
+      "bathroom": "1 Baths",
+      "area": "52 sqm",
+      "image": "https://houseofhargrove.com/wp-content/uploads/2017/10/Beautiful-Exteriors1.jpg"
+    },
+    {
+      "price": "2,850,000",
+      "location": "Topaz Residence, USA",
+      "location_ar":"إدنبرة ، إنجلترا",
+      "bedroom": "5 Bed",
+      "bathroom": "2 Baths",
+      "area": "321 sqm",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "price": "3,850,000",
+      "location": "Living Legends, USA",
+      "location_ar":"ليفربول ، إنجلترا",
+      "bedroom": "1 Bed",
+      "bathroom": "2 Baths",
+      "area": "160 sqm",
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+  
+    {
+      "price": "3,850,000",
+      "location": "Mazaya 4, USA",
+      "location_ar": "برمنغهام ، إنجلترا",
+      "bedroom": "3 Bed",
+      "bathroom": "2 Baths",
+      "area": "152 sqm",
+      "image": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "price": "4,850,000",
+      "location": "Zaya Hameni, USA",
+      "location_ar": "مانشستر ، إنجلترا",
+      "bedroom": "2 Bed",
+      "bathroom": "2 Baths",
+      "area": "595 sqm",
+      "image": "https://images.pexels.com/photos/2083459/pexels-photo-2083459.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+  ]
+  

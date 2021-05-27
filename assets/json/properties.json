@@ -1,0 +1,29 @@
+[
+    {
+        "price": "4,850,000",
+        "location": "Spring Oasis, Dubai",
+        "location_ar": "بريستول ، إنجلترا",
+        "bedroom": "3",
+        "bathroom": "1",
+        "area": "52 sqm",
+        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      },
+      {
+        "price": "2,850,000",
+        "location": "Topaz, Dubai",
+        "location_ar": "إدنبرة ، إنجلترا",
+        "bedroom": "5",
+        "bathroom": "2",
+        "area": "321 sqm",
+        "image": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80"
+      },
+      {
+        "price": "3,850,000",
+        "location": "Living house, Dubai",
+        "location_ar": "ليفربول ، إنجلترا",
+        "bedroom": "2",
+        "bathroom": "1",
+        "area": "160 sqm",
+        "image": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80"
+      }
+]

@@ -1,0 +1,21 @@
+
+[
+{
+  "location": "VILLAMARTIN SPAIN",
+  "location_ar":"بريستول ، إنجلترا",
+  "purpose": "Rent",
+  "type": "Residential"
+
+},
+
+{
+    "location": "MEDITERRANEAN HOMES, DUBAI",
+    "location_ar":"إدنبرة ، إنجلترا",
+    "purpose": "Rent",
+    "type": "Commercial"
+},{
+    "location": "ESTONIA",
+    "location_ar":"ليفربول ، إنجلترا'",
+    "purpose": "buy",
+    "type": "Residential"  
+}]

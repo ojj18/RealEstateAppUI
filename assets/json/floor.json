@@ -1,0 +1,33 @@
+[
+    {
+        "price": "5,656,000",
+        "location": "Spring Oasis, Dubai",
+        "location_ar": "بريستول ، إنجلترا",
+        "image": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1443&q=80"
+      },
+      {
+        "price": "2,212,000",
+        "location": "Toaz Residence, Dubai",
+        "location_ar": "إدنبرة ، إنجلترا",
+        "image": "https://images.unsplash.com/photo-1506126279646-a697353d3166?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      },
+      {
+        "price": "3,878,000",
+        "location": "Lving Legends, Dubai",
+        "location_ar": "ليفربول ، إنجلترا",
+        "image": "https://cdn.pixabay.com/photo/2016/06/24/10/47/architecture-1477041_960_720.jpg"
+      },
+    
+      {
+        "price": "3,114,000",
+        "location": "Mazaya 4, Dubai",
+        "location_ar": "برمنغهام ، إنجلترا",
+        "image": "https://cdn.pixabay.com/photo/2016/11/18/17/46/architecture-1836070_960_720.jpg"
+      },
+      {
+        "price": "4,150,000",
+        "location":"Zaya Hameni, Dubai",
+        "location_ar": "مانشستر ، إنجلترا",
+        "image": "https://images.pexels.com/photos/2510067/pexels-photo-2510067.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      }
+    ]

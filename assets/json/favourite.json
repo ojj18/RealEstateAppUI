@@ -1,0 +1,49 @@
+[
+    {
+        "price": "5,656,000",
+        "location": "Spring Oasis, Dubai",
+        "location_ar": "بريستول ، إنجلترا",
+        "bedroom":"Studio",
+        "bathroom": "1 Baths",
+        "area": "22 sqm",
+        "image": "https://images.pexels.com/photos/1643389/pexels-photo-1643389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+      },
+      {
+        "price": "2,212,000",
+        "location": "Topaz Residence, Dubai",
+        "location_ar": "إدنبرة ، إنجلترا",
+        "bedroom": "5 Bed",
+        "bathroom": "2 Baths",
+        "area": "212 sqm",
+        "image": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "price": "3,878,000",
+        "location": "Living Legends, Dubai",
+        "location_ar": "ليفربول ، إنجلترا",
+        "bedroom": "4 Bed",
+        "bathroom": "2 Baths",
+        "area": "160 sqm",
+        "image": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+    
+      {
+        "price": "23,114,000",
+        "location": "Mazaya 4, Dubai",
+        "location_ar": "برمنغهام ، إنجلترا",
+        "bedroom": "5 Bed",
+        "bathroom": "2 Baths",
+        "area": "152 sqm",
+        "image": "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "price": "4,150,000",
+        "location": "Zaya Hameni, Dubai",
+        "location_ar": "مانشستر ، إنجلترا",
+        "bedroom": "2 Bed",
+        "bathroom": "4 Baths",
+        "area": "121 sqm",
+        "image": "https://images.pexels.com/photos/2510067/pexels-photo-2510067.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      }
+]
